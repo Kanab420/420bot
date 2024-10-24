@@ -1,0 +1,27 @@
+{
+  "name": "420bot",
+  "version": "0.1.0",
+  "description": "420bot made with weed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanab420/420bot.git"
+  },
+  "keywords": [
+    "kanab",
+    "discord",
+    "bot"
+  ],
+  "author": "Kanab420",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Kanab420/420bot/issues"
+  },
+  "homepage": "https://github.com/Kanab420/420bot#readme",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
